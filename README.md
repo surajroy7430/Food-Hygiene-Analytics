@@ -179,6 +179,9 @@ https://ratings.food.gov.uk/api/open-data-files/FHRS529en-GB.json
 - Clone this repository or copy the script into an HTML file.
 - Open the HTML in a browser that supports ES6 and fetch.
 - Open DevTools (F12) to view the output of the analysis in the console.
+- If you face CORS issues while fetching data, consider using CORS chrome extention and enable it
+
+---
 
 ## How to View the Exported CSV
 
